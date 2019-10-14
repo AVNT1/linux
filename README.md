@@ -1,4 +1,2 @@
-이재환: ironbud@naver.com
-yjoon@mobis.co.kr
-yjoon@mobis.co.kr
-1234568
+이재환(ironbud@naver.com)
+이용준(yjoon@mobis.co.kr)
